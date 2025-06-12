@@ -20,4 +20,4 @@
   }
 }
 
-npm install --global eas-cli && eas init --id d8a5b9f6-23e0-42fb-b0de-0644d08228d4
+npm install --global eas-cli && eas init --id d8a5b9f6-23e0-42fb-b0de-0644d08228d4 
